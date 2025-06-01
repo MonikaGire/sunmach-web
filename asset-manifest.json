@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/sunmach/static/css/main.dba6a600.css",
+    "main.js": "/sunmach/static/js/main.b2d97913.js",
+    "static/js/787.fc5a2fc3.chunk.js": "/sunmach/static/js/787.fc5a2fc3.chunk.js",
+    "static/media/sunmach.mp4": "/sunmach/static/media/sunmach.f02bd9efbfc2620984ca.mp4",
+    "static/media/SUNMACH - BROCHURE.pdf": "/sunmach/static/media/SUNMACH - BROCHURE.eb1e5864d32fcddd01db.pdf",
+    "static/media/sustainability.jpg": "/sunmach/static/media/sustainability.b719de7170a3fb3cc12c.jpg",
+    "static/media/method.jpg": "/sunmach/static/media/method.84ab8141ea42b647eedc.jpg",
+    "static/media/quality.jpg": "/sunmach/static/media/quality.9a6dced66351dbeb9a41.jpg",
+    "static/media/trust.jpg": "/sunmach/static/media/trust.dc1c7ca82e6da216cda0.jpg",
+    "static/media/MCCIA - 2023-24 (1).pdf": "/sunmach/static/media/MCCIA - 2023-24 (1).6e92931f32d280e5a1f7.pdf",
+    "static/media/ISO-Sunrise Machination LLP (1).pdf": "/sunmach/static/media/ISO-Sunrise Machination LLP (1).4c21d2d1e5c092a2cdd4.pdf",
+    "static/media/pipe-spool.jpg": "/sunmach/static/media/pipe-spool.a01737738b041673ca94.jpg",
+    "static/media/machined-component.jpg": "/sunmach/static/media/machined-component.374d1cfe08279aa082ef.jpg",
+    "static/media/Surnise Registration-cum Membership Certificate (1).pdf": "/sunmach/static/media/Surnise Registration-cum Membership Certificate (1).6989e128e3f552299010.pdf",
+    "static/media/piping.jpg": "/sunmach/static/media/piping.164444739beb7853a0f0.jpg",
+    "static/media/fasteners.jpg": "/sunmach/static/media/fasteners.e6845eefc6587abd145a.jpg",
+    "static/media/anchor.jpg": "/sunmach/static/media/anchor.7b41af06cb6dc92f0389.jpg",
+    "static/media/pipe.jpg": "/sunmach/static/media/pipe.582194a4e4ee02fabcbd.jpg",
+    "static/media/bolting.jpg": "/sunmach/static/media/bolting.c6f6ef3dbdeba097c174.jpg",
+    "static/media/machine.jpg": "/sunmach/static/media/machine.913d2bb4791f79502d11.jpg",
+    "index.html": "/sunmach/index.html",
+    "main.dba6a600.css.map": "/sunmach/static/css/main.dba6a600.css.map",
+    "main.b2d97913.js.map": "/sunmach/static/js/main.b2d97913.js.map",
+    "787.fc5a2fc3.chunk.js.map": "/sunmach/static/js/787.fc5a2fc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba6a600.css",
+    "static/js/main.b2d97913.js"
+  ]
+}
