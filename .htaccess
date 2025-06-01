@@ -1,0 +1,7 @@
+# React Router
+RewriteEngine On
+RewriteBase /sunmach/
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /sunmach/index.html [L]
